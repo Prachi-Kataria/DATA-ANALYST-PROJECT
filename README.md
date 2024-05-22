@@ -1,11 +1,13 @@
 # SUPERSTORE SALES DASHBOARD
 
 Objective:
+
 To Contribute to the Success of a Business by utilizing the data analysis techniques,specially focusing on Time Series analysis,to provide valuable insights 
 and accurate Sales Forecasting.
 
 
 Description:
+
 The Objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, Design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to
    allow users to explore the data at various level of granularity.
@@ -15,5 +17,6 @@ The Objective can be broken down into the following detailed components:
    the supermarkets goal for growth, efficiency and customer satisfaction.
 
 Learning:
+
 Incorporated data analysis techniques, specializing in time series analysis , to deliver valuable insights, accurate sales forecasting and interactive dashboard 
 creation,driving business success.
